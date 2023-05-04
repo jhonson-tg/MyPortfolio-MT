@@ -1,4 +1,4 @@
-package com.mrj33.myportfoliomt.holdings;
+package com.mrj33.myportfoliomt.service.holdings;
 
 import com.mrj33.myportfoliomt.model.holding.Holding;
 
